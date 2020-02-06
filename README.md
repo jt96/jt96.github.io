@@ -25,6 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+<img src="https://cdn.imgbin.com/9/18/1/imgbin-blah-blah-blah-bla-bla-bla-computer-icons-others-U949ghcVrrUR8w80ccXK1i4QJ.jpg">
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
