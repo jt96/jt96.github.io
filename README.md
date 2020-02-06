@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Another bullet
 
 1. Numbered
 2. List
