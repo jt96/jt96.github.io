@@ -24,12 +24,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://images.unsplash.com/photo-1526181243104-d6a25cdae9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80)
-<img src="https://images.unsplash.com/photo-1526181243104-d6a25cdae9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80" alt="" />
+[Link](url) and ![Image](link)
 ```
 ![Image](https://images.unsplash.com/photo-1526181243104-d6a25cdae9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80)
-<img src="https://images.unsplash.com/photo-1526181243104-d6a25cdae9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80" alt="" />
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
