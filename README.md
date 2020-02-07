@@ -17,16 +17,16 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Another bullet
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](link)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://images.unsplash.com/photo-1526181243104-d6a25cdae9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80)
 
 ### Jekyll Themes
 
