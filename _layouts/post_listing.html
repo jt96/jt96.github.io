@@ -46,9 +46,9 @@ layout: default
     <div class="post-image-preview">
       <img src=
       {% if post.image.preview contains 'http' %}
-      "{{ post.image.preview }}"
+      "{{ post.image.preview }}" align="left"
       {% else %}
-      "{{ site.url }}/img/{{ post.image.preview }}"
+      "{{ site.url }}/img/{{ post.image.preview }}" align="left"
       {% endif %}
       alt="{{ post.title | escape }} preview image">
 

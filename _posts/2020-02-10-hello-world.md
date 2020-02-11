@@ -7,7 +7,7 @@ comments: true
 image:
   feature: #
   preview: https://i.postimg.cc/L4qgT4fc/image.png
-  credit: jackie trenh
+  credit: Jackie Trenh
   creditlink: #
 ---
 Simple hello world web app
