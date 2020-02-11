@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Jackie Trenh's Portfolio
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
@@ -37,7 +37,7 @@ owner:
   avatar:
   job: "Help Desk Specialist"
   bio: "this my site now.."
-  email: mailto:jackietrenh@gmail.com
+  email: jackietrenh@gmail.com
   disqus-shortname:
   twitter: jackietrenh
   facebook: #username
