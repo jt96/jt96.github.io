@@ -4,6 +4,11 @@ title: Hello World Web Application
 excerpt: "Simple hello world web app"
 categories: [hello world]
 comments: true
+image:
+  feature: #
+  preview: https://i.postimg.cc/L4qgT4fc/image.png
+  credit: jackie trenh
+  creditlink: #
 ---
 Simple hello world web app
 

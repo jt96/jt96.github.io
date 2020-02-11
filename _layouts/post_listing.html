@@ -42,15 +42,15 @@ layout: default
     </div>
     {% endif %}
 
-    {% if post.image.feature %}
-    <div class="post-image-feature">
-      <img align="left" src=
-      {% if post.image.feature contains 'http' %}
-      "{{ post.image.feature }}"
+    {% if post.image.preview %}
+    <div class="post-image-preview">
+      <img src=
+      {% if post.image.preview contains 'http' %}
+      "{{ post.image.preview }}"
       {% else %}
-      "{{ site.url }}/img/{{ post.image.feature }}"
+      "{{ site.url }}/img/{{ post.image.preview }}"
       {% endif %}
-      alt="{{ post.title | escape }} feature image">
+      alt="{{ post.title | escape }} preview image">
 
       {% if post.image.credit %}
       <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
