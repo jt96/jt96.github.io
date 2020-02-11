@@ -1,0 +1,4 @@
+- name: Measure Development
+  descr: "Data analysis (EFA, CFA, correlation matrices, t-test & ANOVA) for the development of the State Mindfulness Scale for Physical Activity"
+  image: exercise.jpg
+  github: https://github.com/huongtopher/sms

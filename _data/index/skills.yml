@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: handles, shooting off the dribble, shooting off the catch, passing, rebounding, trash talk
+percentage: 50, 75, 70, 20, 80, 10

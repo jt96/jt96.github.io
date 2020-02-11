@@ -1,0 +1,6 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: WSU Psychology of Physical Activity Research Laboratory
+  link: https://labs.wsu.edu/psychpa/
+  date: January 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Research Assistant
