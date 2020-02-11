@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Christopher Huong
-  avatar: meee.png
-  job: "A chronicle"
-  bio: "this where me stuff gon go"
-  email: chrishuong95@gmail.com
+  name: Jackie Trenh
+  avatar: ![me](https://media-exp1.licdn.com/dms/image/C5603AQFhQeRt5yJaEQ/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=gh5tnC2SUgMCW20o5CCLKryajDqF838PtMzYjUPSIdI)
+  job: "Help Desk Specialist"
+  bio: "this my site now.."
+  email: mailto:jackietrenh@gmail.com
   disqus-shortname:
-  twitter: huongtopher
+  twitter: jackietrenh
   facebook: #username
   google:
     plus: #username
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: huongtopher
+  github: jt96
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: chris-h-1685951a1
+  linkedin: jackietrenh
   skype: #username
   xing: #username
-  instagram: huongtopher
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
