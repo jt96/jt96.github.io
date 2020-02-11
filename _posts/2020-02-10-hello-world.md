@@ -20,24 +20,19 @@ Navigate to ec2 service on aws console and launch an instance with the configura
 <br clear="all" />
 
 Use user data to quickly setup an apache web application when launching the instance. You can find this bootstrap script with a quick google search. Read more about this [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html).
-
-
+<br/><br/>
 
 <img align="left" src="https://i.postimg.cc/vHgmJc3x/image.png">
 <br clear="all" />
 
 You can create your own security group to be more secure or use the default one that allows all traffic.
-
-
+<br/><br/>
 
 <img align="left" src="https://i.postimg.cc/MKVcCs9t/image.png">
 <br clear="all" />
 
 After launching, the Hello World! web app should be all set!
-
-
-
-
+<br/><br/>
 
 <img align="left" src="https://i.postimg.cc/90TMjMYz/image.png">
 <br clear="all" />
