@@ -32,7 +32,7 @@ You can create your own security group to be more secure or use the default one 
 <br clear="all" />
 
 After launching, the Hello World! web app should be all set!
-<br/><br/>
+<br/><br/>__
 
 <img align="left" src="https://i.postimg.cc/90TMjMYz/image.png">
 <br clear="all" />
