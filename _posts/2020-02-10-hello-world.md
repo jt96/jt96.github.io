@@ -39,3 +39,5 @@ After launching, the Hello World! web app should be all set!
 You can ssh into your instance and verify that the index.html file was created and contains the html code you wrote to it using the 
 ```cat index.html``` command.
 
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
