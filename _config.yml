@@ -5,7 +5,7 @@
 #
 title: Jackie Trenh's Portfolio
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: A simple website to showcase my personal projects.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -36,7 +36,7 @@ owner:
   name: Jackie Trenh
   avatar:
   job: "Aspiring Cloud Engineer"
-  bio: 
+  bio:
   email: jackietrenh@gmail.com
   disqus-shortname:
   twitter: jackietrenh
