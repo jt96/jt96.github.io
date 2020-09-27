@@ -87,7 +87,7 @@ a.read-more {
 
 // Post content
 
-@media only screen and (min-width: 420px) {
+@media only screen and (min-width: 760px) {
   #post {
     margin-right: 1000px;
     padding-bottom: 50px;
@@ -112,7 +112,6 @@ a.read-more {
 
 
 #page {
-  margin-right: 1000px;
   padding-bottom: 50px;
   min-height: 70vh;
   .page-header {
