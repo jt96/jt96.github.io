@@ -6,7 +6,7 @@ categories: [resume, aws]
 comments: true
 image:
   feature: #
-  preview: https://i.postimg.cc/MKVcCs9t/image.png
+  preview: https://i.postimg.cc/Y9GBt9Gy/image.png
   credit: Jackie Trenh
   creditlink: #
 ---
