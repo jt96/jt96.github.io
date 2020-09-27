@@ -20,6 +20,7 @@ Next, I got my resume online by deploying as an Amazon S3 static website. I crea
 This was done with CloudFront. Now this part got a bit tricky for me. Following the steps on <a href="https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/">here</a>, I assigned a new CloudFront distribution to my S3 bucket. For some reason, my CloudFront distribution kept redirecting to my S3 bucket's endpoint URL instead of distribution's. Turns out it was just DNS being slow and took a couple hours of waiting for the DNS to propogate and my website to be up and running.
 
 Finally!
+
 <img align="left" src="https://i.postimg.cc/DwFs94J5/image.png">
 <br clear="all" />
 
