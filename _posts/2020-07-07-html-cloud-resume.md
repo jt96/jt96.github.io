@@ -17,7 +17,7 @@ The first step was to write my resume in HTML and CSS. I am not an expert in HTM
 
 Next, I got my resume online by deploying as an Amazon S3 static website. I created an S3 bucket with my future website domain name (jackietrenh.com) and uploaded my HTML file to the bucket, updated my bucket policies to allow the static site to be accessed from the web, enabled static website hosting in properties, and I'm almost all set. I still needed to setup my site to use HTTPS for security. 
 
-This was done with CloudFront. Now this part got a bit tricky for me. Following the steps on <a href="https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/">here</a>, I assigned a new CloudFront distribution to my S3 bucket. For some reason, my CloudFront distribution kept redirecting to my S3 bucket's endpoint URL instead of distribution's. Turns out it was just DNS being slow and took a couple hours of waiting for the DNS to propogate and my website to be up and running.
+This was done with CloudFront. Now this part got a bit tricky for me. Following the steps on <a href="https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/">here</a>, I assigned a new CloudFront distribution to my S3 bucket. For some reason, my CloudFront distribution kept redirecting to my S3 bucket's endpoint URL instead of the distribution's. Turns out it was just DNS being slow and took a couple hours of waiting for the DNS to propogate and my website to be up and running.
 
 Finally!
 
