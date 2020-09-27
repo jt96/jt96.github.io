@@ -87,11 +87,13 @@ a.read-more {
 
 // Post content
 
-#post {
-  margin-right: 1000px;
-  padding-bottom: 50px;
-  .post-header {
-    margin: 0 auto 50px;
+@media only screen and (min-width: 420px) {
+  #post {
+    margin-right: 1000px;
+    padding-bottom: 50px;
+    .post-header {
+      margin: 0 auto 50px;
+    }
   }
 }
 
@@ -108,16 +110,16 @@ a.read-more {
   position: relative;
 }
 
-@media only screen and (min-width: 420px) {
-  #page {
-    margin-right: 1000px;
-    padding-bottom: 50px;
-    min-height: 70vh;
-    .page-header {
-      margin: 0 auto 50px;
-    }
+
+#page {
+  margin-right: 1000px;
+  padding-bottom: 50px;
+  min-height: 70vh;
+  .page-header {
+    margin: 0 auto 50px;
   }
 }
+
 
 .post-navigation {
   background-color: #f6f6f6;
