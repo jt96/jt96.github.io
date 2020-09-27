@@ -108,12 +108,14 @@ a.read-more {
   position: relative;
 }
 
-#page {
-  margin-right: 200px;
-  padding-bottom: 50px;
-  min-height: 70vh;
-  .page-header {
-    margin: 0 auto 50px;
+@media only screen and (min-width: 760px) {
+  #page {
+    margin-right: 500px;
+    padding-bottom: 50px;
+    min-height: 70vh;
+    .page-header {
+      margin: 0 auto 50px;
+    }
   }
 }
 
