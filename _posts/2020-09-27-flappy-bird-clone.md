@@ -40,7 +40,7 @@ The final step was to implement collision detection. How does the game know when
 <img align="left" src="https://i.postimg.cc/q7YyDhw1/gameover.png">
 <br clear="all" /><br clear="all" />
 
-I added a pause function in the end, in case players needed to pause the game.
+Adding a pause function in case players needed to pause the game.
 
 <img align="left" src="https://i.postimg.cc/QxkgNMNM/paused.png">
 <br clear="all" /><br clear="all" />
