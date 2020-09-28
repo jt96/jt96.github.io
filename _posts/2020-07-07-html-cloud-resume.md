@@ -62,4 +62,4 @@ Finally have some views!
 Overall, this was a great challenge that provided a lot of exposure to cloud services and a bit of programming. I plan on integrating workflows and CI/CD pipelines to this project and will update this post when complete. Huge thanks to Forrest Brazeal for creating this challenge and I'm very excited to continue learning about the cloud and everything it has to offer!
 
 <br clear="all" /><br clear="all" /><br clear="all" />
-This resume website was built during the <a href="https://dev.to/forrestbrazeal/the-cloud-resume-challenge-503g">#CloudResumeChallenge</a>
+This resume website was built during the <a href="https://dev.to/forrestbrazeal/the-cloud-resume-challenge-503g">#CloudResumeChallenge</a>. You can view this resume by clicking resume on the left sidebar or  <a href="https://www.jackietrenh.com">here.</a>
