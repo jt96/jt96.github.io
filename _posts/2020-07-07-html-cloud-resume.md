@@ -13,7 +13,7 @@ image:
 
 I was looking around for AWS projects I could work on to add to my portfolio and I came across the Cloud Resume Challenge created by Forrest Brazeal. A quick summary of the challenge is writing your resume in HTML and building it upon several AWS services such as S3, CloudFront, Route 53, DynamoDB, Lambda and API Gateway as exposure to the cloud was the main goal.
 
-The first step was to write my resume in HTML and CSS. I am not an expert in HTML in anyway, so thankfully I found a nice template created by <a href="https://www.sonjastrieder.com/">Sonja Strider</a> which included CSS styling too. From there, all I needed to do was fill in the resume with my information. 
+The first step was to write my resume in HTML and CSS. I am not an expert in HTML in anyway, so thankfully I found a nice template created by <a href="https://www.sonjastrieder.com/">Sonja Strieder</a> which included CSS styling too. From there, all I needed to do was fill in the resume with my information. 
 
 Next, I got my resume online by deploying as an Amazon S3 static website. I created an S3 bucket with my future website domain name (jackietrenh.com) and uploaded my HTML file to the bucket, updated my bucket policies to allow the static site to be accessed from the web, enabled static website hosting in properties, and I'm almost all set. I still needed to setup my site to use HTTPS for security. 
 
